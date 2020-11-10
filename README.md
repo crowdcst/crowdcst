@@ -1,5 +1,3 @@
-<!-- -------------------------------------------------------------------------------------------------
-
   So you like to code huh? 
   
   We're pushing the edge of what's possible with video technology &
@@ -7,7 +5,3 @@
   If that's you, visit http://crowdcast.link/jobs or tweet me at @saidurh.
 
   - Sai, Co-founder & CEO
-
-------------------------------------------------------------------------------------------------------
-
--->
